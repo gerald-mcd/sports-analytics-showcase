@@ -1,6 +1,6 @@
 # Sports Analytics & Predictive Modeling Platform
 
-**Independent project | AI-assisted development | Work in progress**
+**Independent project | Work in progress**
 
 ## Project Overview
 
